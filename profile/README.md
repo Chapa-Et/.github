@@ -26,13 +26,13 @@
 <img align='right' src="https://media.giphy.com/media/y996jZnvubSxMSekVE/giphy.gif" width="230" height="230">
 
 ## What's currently keeping us busy?
-- Israel is currently learning more about Human brains, So feel free to collab with him about AI!
+- 🌱 Israel is currently learning more about Human brains, So feel free to collab with him about AI!
 - 👯 We are open to collaborate on ML and Fintech projects with specific department.
-- 💬 Ask us about anything at info [at] chapa [dot] co, We are happy to help
+- 💬 Ask us about anything at info [at] chapa [dot] co, we are happy to help.
 
 ## Fun Fact!
--  At Chapa we eat Injera 5 days a week!
+- 🍿 At Chapa we eat Injera 5 days a week!
 
 ## Want to be a part of the team?
 
-- You can reach us at: info [at] chapa [dot] co
+- 📫 You can reach us at: info [at] chapa [dot] co
